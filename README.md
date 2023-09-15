@@ -14,3 +14,8 @@ Using these techniques we pretend to find a line correlate to the needle geometr
 ## After
 
 ![Depois](https://github.com/Btwo2/NeedleDetector/assets/110456965/2eb3715a-34fb-4c19-868c-ce5a14504081)
+
+## Previa
+
+![Sem título](https://github.com/Btwo2/NeedleDetector/assets/110456965/c65dc8a6-6e11-4d94-86aa-7eb3eedf4ad3)
+
